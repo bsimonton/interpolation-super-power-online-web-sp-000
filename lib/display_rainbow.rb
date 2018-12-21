@@ -1,4 +1,4 @@
-colors = []
+colors = ["red", ]
 
 
 def display_rainbow(colors)
